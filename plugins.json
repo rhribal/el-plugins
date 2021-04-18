@@ -21,7 +21,16 @@
 "url":"https://github.com/elli-tt/el-plugins/blob/master/release/elmahoganyhomes-0.0.9.jar?raw=true",
 "requires":"^1.0.0"}]},
 
-
+{"projectUrl":"https://discord.gg/enDUcqH",
+"provider":"El-Plugins",
+"name":"El Motherlode Mine",
+"description":"Does MLM for you.",
+"id":"elmlm-plugin",
+"releases":[{"date":"2021-04-03",
+"sha512sum":"2661213C04C1C669BBD240323A906B4FA0FCECEBEEA6F403FD22EEAFF0A56F2C907C3A429EC716E3343BA6619028187A313A6A2887CA01601A6DCDCAB930DE62",
+"version":"0.0.9",
+"url":"https://github.com/rhribal/el-plugins/blob/master/release/ElMLM-0.0.6.jar?raw=true",
+"requires":"^1.0.0"}]},
 
 {"projectUrl":"https://discord.gg/enDUcqH",
 "provider":"El",
